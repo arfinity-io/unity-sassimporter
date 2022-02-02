@@ -1,0 +1,11 @@
+@use "sass:math";
+$blue: #1668D5;
+$margin: 100px;
+$size: 200px;
+
+.square {
+  height: $size;
+  width: $size;
+  margin: math.div($margin,2);
+  background-color: $blue;
+}

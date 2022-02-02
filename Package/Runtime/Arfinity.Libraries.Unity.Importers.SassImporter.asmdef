@@ -1,0 +1,14 @@
+{
+    "name": "Arfinity.Library.Unity.Importers.SassImporter",
+    "rootNamespace": "Arfinity.Library.Unity.Importers.SassImporter",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

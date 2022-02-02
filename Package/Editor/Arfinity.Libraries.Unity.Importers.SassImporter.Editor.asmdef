@@ -1,0 +1,25 @@
+{
+    "name": "Arfinity.Libraries.Unity.Importers.SassImporter.Editor",
+    "rootNamespace": "Arfinity.Libraries.Unity.Importers.SassImporter.Editor",
+    "references": [
+        "Arfinity.Unity.Importers.SassImporter",
+        "Arfinity.Libraries.Unity.SassExecutables.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "io.arfinity.unity.packages.sassexecutables",
+            "expression": "1.0.1",
+            "define": "SASS_EXECUTABLES_PACKAGE_PRESENT"
+        }
+    ],
+    "noEngineReferences": false
+}

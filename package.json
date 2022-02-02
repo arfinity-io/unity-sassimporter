@@ -1,0 +1,16 @@
+{
+  "name": "no.package.to.release.here",
+  "displayName": "arfinity - Package Help Scripts",
+  "version": "0.0.0",
+  "author": "arfinity (https://arfinity.io)",
+  "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog",
+      "disableSubjectLowerCase": true
+    }
+  }
+}
